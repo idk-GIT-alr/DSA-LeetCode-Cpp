@@ -1,4 +1,4 @@
-class Solution {
+class Solution { //solved
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
         int n= nums.size();
